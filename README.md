@@ -16,7 +16,7 @@
 
   - ATLANTE AVANZATO
 
-- ##### [PARTE 3](3-MATTEO/scaletta.rst)
+- ##### [PARTE 3](3-matteo/scaletta.rst)
 
   - DATAPLOTLY
 
