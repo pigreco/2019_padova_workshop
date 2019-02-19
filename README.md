@@ -8,7 +8,7 @@
 
   - SIMBOLOGIA
 
-- ##### [PARTE 2]("2-enrico\scaletta.md")
+- ##### [PARTE 2](2-enrico/scaletta.md)
 
   - COMPOSITORE DI STAMPA
 
@@ -16,7 +16,7 @@
 
   - ATLANTE AVANZATO
 
-- ##### [PARTE 3]("3-MATTEO\scaletta.rst")
+- ##### [PARTE 3](3-MATTEO/scaletta.rst)
 
   - DATAPLOTLY
 
