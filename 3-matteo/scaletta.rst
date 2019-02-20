@@ -6,7 +6,7 @@ Diagrammi e grafici
 * creazione diagrammi a torta con Mg, Ca e Na e dimensione di EC
 * attivazione legenda in funzione della dimensione
 
-* scaricare e attivazione plugin
+* scaricare e attivazione plugin DataPlotly
 * spiegazione funzionalità principali del plugin
 * ``Scatterplot`` Ca - Mg e interazione con grafico (vari pulsanti)
 * attivare etichette con ``id`` dei punti e cambiare hover label Dataplotly per mostrare interattività
@@ -38,7 +38,6 @@ John Snow
 * :menuselection:`Processing --> Poligoni di Voronoi`
 * :menuselection:`Processing --> Count points in polygon`
 * :menuselection:`Processing --> SAGA -> Kernel` con parametri (Colera Deaths: radius: 100, extent: canvas, cs:1)
-* :menuselection:`Processing --> Poligoni di Voronoi`
 * :menuselection:`Processing --> Distance to nearest hub (line to hub)` (Colera, Pumps, Id, meters)
 
 Layer temporanei e non voluti (Voronoi) e analisi ripetitive. Se avessimo stessa struttura dati per 30 quartieri di Londra?
